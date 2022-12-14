@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Driver for the AS7265x spectral sensors based on AS7265x
+Driver for the Sparkfun AS7265x spectral sensors based on Adafruit AS726x circuitpython library
 
 Installation and Dependencies
 =============================
